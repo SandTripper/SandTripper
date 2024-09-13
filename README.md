@@ -17,7 +17,16 @@ Here are some ideas to get you started:
 <h1 align="left">:two_hearts: Nice to see you</h1>
 
 Welcome to my page!\
-I'am SandTripper, a student from SCNU.
+I'am SandTripper, a full-stack developer, my tech stack includes but is not limited to:
+* **Frontend**: React, Vue
+* **Backend**: Go, Python, C++
+* **Database**: MySQL, Redis, TDengine
+* **DevOps**: Docker, K8s, Grafana, familiar with CentOS and Ubuntu systems
+* **Algorithms**: Common ACM algorithms
+* **AI**: Basic theory
+* **Others**: Bukkit plugin development (Java)
+
+If you have any good ideas or would like to get to know me, please contact me via email: sandtripper@163.com
 
 <h3 align="left">My Stats</h3>
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SandTripper&show_icons=true&include_all_commits=true"/>
